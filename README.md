@@ -1,4 +1,4 @@
-# Math Interpreter README
+# Math Interpreter
 
 ## Overview
 The Math Interpreter is a Python program that takes a mathematical expression as input from the user, validates it, and evaluates the expression. The program supports basic arithmetic operations, exponentiation, and handles parentheses. It also includes a debug mode to help trace the execution flow and identify potential issues in the input expression.
